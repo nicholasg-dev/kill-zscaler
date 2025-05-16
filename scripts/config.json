@@ -1,0 +1,12 @@
+{
+    "zscaler": {
+        "app_path": "/Applications/Zscaler/Zscaler.app",
+        "launch_agents_path": "/Library/LaunchAgents",
+        "launch_daemons_path": "/Library/LaunchDaemons",
+        "log_dir": "$HOME/.zscaler",
+        "max_retries": 3,
+        "retry_delay": 2,
+        "status_check_interval": 30,
+        "notifications_enabled": true
+    }
+}
